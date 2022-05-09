@@ -137,9 +137,9 @@ class Homescreen extends StatelessWidget {
                         child: OutlineButton(
                           child: Text('login'),
                           shape: RoundedRectangleBorder(
-               ~             borderRadius: BorderRadius.circular(10),
-                            side: BorderSide(width: 2, color: Colors.white),
-                          ),
+                              //  ~             borderRadius: BorderRadius.circular(10),
+                              //               side: BorderSide(width: 2, color: Colors.white),
+                              ),
                           onPressed: () {},
                         )),
                   ],
